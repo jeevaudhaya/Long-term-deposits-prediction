@@ -5,9 +5,9 @@
  
 ### Dataset:
  
- The proposed algorithm evaluated using Bank Portugal dataset from UCI machine learning where this dataset belongs from bank retail in Portugal by 2008-2010 years.        
-    The dataset  consists of 4119 records, 20 attributes and 2 labels is deposit and non-deposit. 
-
+ The proposed algorithm evaluated using Bank portugal dataset from UCI machine learning where this dataset belongs from bank retail in portugal by 2008_2010 years.
+ The dataset consists of 4119 records, 20 attributes and 2 labels is deposit and non_deposit.
+   
  Data is collected from website.
- https://archive.ics.uci.edu/ml/datasets/bank+marketing
+\n https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
