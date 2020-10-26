@@ -11,9 +11,10 @@
  Data is collected from website.
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-Confusion matrix of the prediction results'
-![image]<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/60421781/97191156-983f8900-17cc-11eb-9a92-dac4717d30f9.png">
-
+Confusion matrix of the prediction results
+<p align="center">
+  <img width="460" height="300" src="user-images.githubusercontent.com/60421781/97191156-983f8900-17cc-11eb-9a92-dac4717d30f9.png">
+</p>
 
 #### Software Requirements          
              Operating System : Windows 7
