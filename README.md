@@ -13,5 +13,6 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 #### Software Requirements          
              Operating System : Windows 7
-             Development Kit : Python3.0,Jupyter Notebook, Anaconda
+             Development Kit : Python3.0, Jupyter Notebook, Anaconda
+             
 
