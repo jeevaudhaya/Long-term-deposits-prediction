@@ -9,5 +9,5 @@
  The dataset consists of 4119 records, 20 attributes and 2 labels is deposit and non_deposit.
    
  Data is collected from website.
-\nhttps://archive.ics.uci.edu/ml/datasets/bank+marketing
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
