@@ -3,7 +3,7 @@
  
  In this experiment, the main aim is to increase the model performance than the previous experiments and compare the machine learning model results and identify the best classification model for classifying the prospective customers who have the potential to be interested in long-term deposit products.
  
- DATASET
+### DATASET:
  
  The proposed algorithm evaluated using Bank Portugal dataset from UCI machine learning where this dataset belongs from bank retail in Portugal by 2008-2010 years.        
     The dataset  consists of 4119 records, 20 attributes and 2 labels is deposit and non-deposit. 
