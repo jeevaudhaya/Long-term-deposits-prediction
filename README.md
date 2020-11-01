@@ -15,6 +15,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 <p align="center">
   <img width="400"  src="predictionAnalysis/image1.jpg">
 </p>
+#### Performance comparison of machine learning models:
 <img width="400"  src="predictionAnalysis/image2.jpg">
 ### Software Requirements          
              Operating System : Windows 7
