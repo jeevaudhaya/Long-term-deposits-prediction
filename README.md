@@ -12,12 +12,9 @@
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 #### Confusion matrix of the prediction results:
-<br>
-<p align="center">
-  <img width="400"  src="predictionAnalysis/image1.jpg">
-</p>
-<br>
-Performance comparison of machine learning models:
+![alt text here](predictionAnalysis/image1.jpg )
+
+#### Performance comparison of machine learning models:
 <br>
 <br>
 <p align="center">
