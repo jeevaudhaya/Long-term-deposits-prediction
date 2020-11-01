@@ -12,11 +12,17 @@
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 #### Confusion matrix of the prediction results:
+<br>
 <p align="center">
   <img width="400"  src="predictionAnalysis/image1.jpg">
 </p>
+<br>
 #### Performance comparison of machine learning models:
- <p><img width="400"  src="predictionAnalysis/image2.jpg"></p>
+<br>
+<p align="center">
+  <img width="400"  src="predictionAnalysis/image2.jpg">
+</p>
+<br>
 ### Software Requirements          
              Operating System : Windows 7
              Development Kit : Python3.0, Jupyter Notebook, Anaconda
