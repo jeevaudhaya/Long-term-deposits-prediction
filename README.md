@@ -11,12 +11,12 @@
  Data is collected from website.
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-Confusion matrix of the prediction results
+####Confusion matrix of the prediction results
 <p align="center">
   <img width="460" height="300" src="predictionAnalysis/image1.jpg">
 </p>
 
-#### Software Requirements          
+### Software Requirements          
              Operating System : Windows 7
              Development Kit : Python3.0, Jupyter Notebook, Anaconda
              
