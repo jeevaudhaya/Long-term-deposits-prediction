@@ -11,9 +11,9 @@
  Data is collected from website.
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-####Confusion matrix of the prediction results
+#### Confusion matrix of the prediction results
 <p align="center">
-  <img width="460" height="300" src="predictionAnalysis/image1.jpg">
+  <img width="400"  src="predictionAnalysis/image1.jpg">
 </p>
 
 ### Software Requirements          
