@@ -11,6 +11,10 @@
  Data is collected from website.
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
+### Software Requirements          
+             Operating System : Windows 7
+             Development Kit : Python3.0, Jupyter Notebook, Anaconda
+
 #### Confusion matrix of the prediction results:
 ![alt text here](predictionAnalysis/image1.jpg )
 
@@ -21,9 +25,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
   <img width="400"  src="predictionAnalysis/image2.jpg">
 </p>
 <br>
-### Software Requirements          
-             Operating System : Windows 7
-             Development Kit : Python3.0, Jupyter Notebook, Anaconda
+
              
              
 
