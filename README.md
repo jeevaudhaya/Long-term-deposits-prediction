@@ -15,6 +15,16 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
              Operating System : Windows 7
              Development Kit : Python3.0, Jupyter Notebook, Anaconda
 
+### Methodology:
+ After importing the dataset, we have to analyze the dataset, to check the shape of the data, check the unique labels of the target variable (Y), check the data type of features and the descriptive statistics of the data.  
+ 
+ After analyze the dataset we have to convert the categorical variable into numeric because the machine learning model work with only numeric features. I convert the categorical feature into numeric using the count_frequency encoding technique. 
+ 
+ Before making the model we apply the standard scalar. Scaling technique  is useful as features should have the same order of magnitude for the algorithm to work properly.Then making model using different machine learning algorithms.
+
+ After making the model, we have evaluate the performance of the model like accuracy, precision, recall, and F1 score based on the confusion matrix, ROC curve and AUROC score. 
+
+
 #### Confusion matrix of the prediction results:
 
 ![alt text here](predictionAnalysis/image1.jpg )
