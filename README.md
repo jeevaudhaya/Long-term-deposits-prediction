@@ -16,7 +16,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
   <img width="400"  src="predictionAnalysis/image1.jpg">
 </p>
 #### Performance comparison of machine learning models:
-<img width="400"  src="predictionAnalysis/image2.jpg">
+ <p><img width="400"  src="predictionAnalysis/image2.jpg"></p>
 ### Software Requirements          
              Operating System : Windows 7
              Development Kit : Python3.0, Jupyter Notebook, Anaconda
