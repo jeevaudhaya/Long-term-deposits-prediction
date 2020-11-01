@@ -20,7 +20,7 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
 ![alt text here](predictionAnalysis/image1.jpg )
 
 #### Performance comparison of machine learning models:
-  <img width="400"  src="predictionAnalysis/image2.jpg">
+  <img width="500"  src="predictionAnalysis/image2.jpg">
 
 
 
