@@ -16,15 +16,15 @@ https://archive.ics.uci.edu/ml/datasets/bank+marketing
              Development Kit : Python3.0, Jupyter Notebook, Anaconda
 
 #### Confusion matrix of the prediction results:
+<p align="center">
 ![alt text here](predictionAnalysis/image1.jpg )
+</p>
 
 #### Performance comparison of machine learning models:
-<br>
-<br>
 <p align="center">
   <img width="400"  src="predictionAnalysis/image2.jpg">
 </p>
-<br>
+
 
              
              
